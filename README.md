@@ -25,5 +25,6 @@ The writing thread waited for user input, combined it with the nickname, and sen
 Result:
 Developed a fully-functioning TCP chat application enabling communication among multiple clients through a central server. The application can be extended with custom features such as chat rooms, commands, and roles.
 
-Note:
+Important Notes:
 Implemented encoding and decoding of messages as bytes (using ASCII) due to the inherent requirement of socket communication.
+If you want to test and use the code run the server.py program before running the ClientSide.py file
