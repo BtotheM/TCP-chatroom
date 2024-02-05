@@ -1,9 +1,7 @@
 # TCP-chatroom
 Project: TCP Chat Application in Python
 
-Date: 10th September 2019
 Category: Network Programming / Programming / Python Programming
-Comments: 39 Comments
 
 Description:
 Implemented a TCP chat application using Python, leveraging its capabilities for efficient network programming. The application follows a client-server architecture, with one central server hosting the chat and multiple clients connecting to it.
